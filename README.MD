@@ -1,1 +1,1 @@
-
+Developed 'Lost And Found Info System' a Losted Item Found tracking web application utilizing PHP,Javascript, and MySql. Implemented features including user authentication, expense management, and data visualization to help users to found their lost item. Used PHP for state management,  & Bootstrap  framework used for User Interface.
